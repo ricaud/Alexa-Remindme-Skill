@@ -1,0 +1,15 @@
+{
+    "intents":
+    [
+            {
+                "intent": "SendMessageIntent",
+                "slots":
+            [
+                {
+                    "name": "message",
+                    "type": "STRING"
+                }
+            ]
+        }
+    ]
+}
